@@ -1,0 +1,63 @@
+Data Analytics Lessons
+
+🔹 Lesson 1: Advanced Python – Itertools & Collections
+====================================================
+Summary:
+Python’s itertools and collections modules help in efficient data handling.
+itertools.combinations() → generate unique pairs
+Counter() → frequency counts
+defaultdict() → avoid key errors
+
+Example:
+Find most common products purchased together using Counter.
+
+
+🔹 Lesson 2: Clustering with K-Means
+=====================================
+Summary:
+Clustering groups similar data points.
+K-Means algorithm → partitions into K clusters
+Choose K using elbow method
+Great for customer segmentation
+
+Example:
+E-commerce company groups customers into budget, premium, and luxury shoppers.
+
+
+🔹 Lesson 3: SQL – CTEs & Subqueries
+=======================================
+Summary:
+CTEs (Common Table Expressions) make queries readable.
+WITH temp AS (SELECT …)
+Subqueries filter and transform data inline
+
+Example:
+Find customers who spent above average using a subquery inside WHERE.
+
+
+🔹 Lesson 4: Tableau – Storytelling Dashboards
+===============================================
+Summary:
+Tableau dashboards can combine visuals into a narrative.
+Add annotations
+Use interactive filters
+Build story sequences
+
+Example:
+A retail store dashboard highlights seasonal demand peaks and lets managers simulate pricing scenarios.
+
+
+🔹 Lesson 5: Case Study – Retail Customer Segmentation
+====================================================
+Summary:
+Steps:
+-------
+Use SQL subqueries to calculate RFM (Recency, Frequency, Monetary)
+Apply K-Means for clustering customers
+Visualize groups in Tableau dashboard
+Recommend marketing strategies per cluster
+
+Example:
+Retail chain increased campaign ROI by 27% after targeting loyal customers separately from occasional buyers.
+
+
